@@ -1,0 +1,143 @@
+
+
+    .Join{
+        background-color:white;
+        color: blue;
+        border-color:blue;
+        height:32px;
+        width:60px;
+        border-radius:4px;
+        cursor: pointer;
+        font-weight: 700;
+    }
+    .Join:hover{
+        background-color: blue;
+        color:white;
+        
+    }
+
+    .subscribe{
+        background-color:rgb(200,0,0);
+        color:white;
+        border:none;
+        height:30px;
+        width:105px;
+        border-radius: 2px;
+        cursor:pointer;
+        /*background: linear-gradient(blue,green); */
+    }
+
+    .Tweet{
+        background-color:rgb(73, 174, 236);
+        color:white;
+        border-radius: 20px;
+        font-weight: 500;
+        border:5px;
+        height: 40px;
+        width:100px;
+        font-size: 18px;
+        font-weight: bold;
+    }
+
+
+    .Request-now{
+        background-color:black;
+        color:white;
+        border:6px;
+        height:40px;
+        width:120px;
+        border-radius: 2px;
+    }
+
+    .Add-to-cart{
+        background-color:gold;
+        color:black;
+        height:40px;
+        width:150px;
+        border-radius: 20px;
+        border: 6px;
+        font-weight: bold;
+    }
+
+    .Sign-up{
+        background-color: limegreen;
+        color:white;
+        font-weight: bold;
+        font-size:15px;
+        height:40px;
+        width:120px;
+        border-radius: 8px;
+        font-weight: bold;
+        border-color: white;
+        border-style:solid;
+    }
+
+    .Get-started{
+        background-color: darkviolet;
+        color:white;
+        height:40px;
+        width:100px;
+        border-radius: 20px;
+        border-color: white;
+        font-weight: bold;
+        border-style:solid;
+    }
+    .Download{
+        background-color:white;
+        color:darkviolet;
+        border-color:darkviolet;
+        border-style:groove;
+        height:32px;
+        width:100px;
+        border-radius:4px;
+        cursor: pointer;
+        border-style:0.5px solid;
+    }
+    .Download:hover{
+        background-color:darkviolet;
+        color:white;
+        
+    }
+
+    .Apply-on-company-website{
+        background-color:rgb(50, 93, 222);
+        color:white;
+        height:40px;
+        width:220px;
+        border-radius: 2px;
+        border-style:solid;
+        border-color: white;
+        border-radius:20px;
+        font-weight: bold;
+    }
+    .Save{
+        background-color:white;
+        color:royalblue;
+        border-color:royalblue;
+        height:30px;
+        width:80px;
+        border-radius:20px;
+        cursor: pointer;
+        font-weight: 700;
+        border-style:solid;
+    }
+
+    .Add-to-Cart{
+        background-color:rgb(255,216,20);
+        color:black;
+        height:30px;
+        width:120px;
+        border-radius: 20px;
+        border: 6px;
+        font-weight: bold;
+    }
+
+    .Buy-now{
+        background-color:rgb(255,164,28);
+        color:black;
+        height:30px;
+        width:120px;
+        border-radius: 20px;
+        border: 6px;
+        font-weight: bold;
+    }
